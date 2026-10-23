@@ -1,2 +1,2 @@
 # oidc-test
-Fork-PR OIDC probe harness (research).
+Fork-PR OIDC probe harness (research, v2).
